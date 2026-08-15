@@ -3,11 +3,12 @@
 # Daniel Arandia
 
 ### Computer Science & Artificial Intelligence Student
-### Aspiring Data Engineer
+### Aspiring Software Engineer | Backend Development
 
 <p>
   <em>
-    Building my path into Data Engineering through software, data, and continuous learning.
+    Building a strong foundation in software engineering through programming,
+    backend development, systems, and continuous learning.
   </em>
 </p>
 
@@ -26,11 +27,13 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Computer Science and Artificial Intelligence student at Universidad Sergio Arboleda**, currently focusing my career path on **Data Engineering**.
+I'm a **Computer Science and Artificial Intelligence student at Universidad Sergio Arboleda**, currently building my professional path toward **Software Engineering and Backend Development**.
 
-I enjoy building software, working with data, and understanding how reliable systems transform raw information into useful insights.
+I enjoy solving problems through programming and understanding how software is designed, built, and connected to the systems that support it.
 
-My current development is centered around **Python, SQL, data pipelines, databases, and data engineering practices**, supported by personal projects and continuous learning.
+My current development is centered around **Python, SQL, databases, software engineering fundamentals, and backend development**, supported by personal projects and continuous learning.
+
+I'm also interested in **Data Engineering, Cloud, and systems**, with the goal of developing a strong and versatile engineering foundation before specializing further.
 
 ---
 
@@ -40,27 +43,29 @@ My current development is centered around **Python, SQL, data pipelines, databas
 <tr>
 <td width="50%">
 
-### Data Engineering
+### Software Engineering
 
-- ETL / ELT pipelines
-- SQL & databases
-- Data transformation
-- Data quality
-- Data modeling
-- Automation
+- Python development
+- Backend fundamentals
+- Object-oriented programming
+- Data structures & algorithms
+- Software design
+- Testing
+- Git & GitHub
 
 </td>
 
 <td width="50%">
 
-### Engineering
+### Data & Systems
 
-- Python development
-- Software engineering
-- Git & GitHub
-- Cloud technologies
-- Infrastructure as Code
-- DevOps fundamentals
+- SQL & databases
+- PostgreSQL
+- Data processing
+- ETL fundamentals
+- Linux
+- Cloud fundamentals
+- Systems & architecture
 
 </td>
 </tr>
@@ -87,22 +92,23 @@ My current development is centered around **Python, SQL, data pipelines, databas
 
 ---
 
-## 📂 Featured Projects
+## 📂 Projects
 
 ### 🔹 ETL Data Pipeline
 
-**Python · SQL · ETL · Data Quality**
+**Python · SQL · ETL**
 
-An end-to-end data pipeline focused on extracting, transforming, validating, and loading data into a structured destination.
+An ongoing project focused on building a structured data pipeline while applying software engineering practices.
 
-**Key concepts:**
+**Current objectives:**
 
 - Data ingestion
 - Data transformation
 - Data validation
-- Data quality
-- Pipeline organization
+- SQL and database integration
+- Project structure
 - Reproducibility
+- Testing and maintainability
 
 > 🚧 Project currently under development.
 
@@ -110,22 +116,31 @@ An end-to-end data pipeline focused on extracting, transforming, validating, and
 
 ### 🔹 More Projects
 
-I'm continuously building projects to strengthen my skills in:
+More projects will be added as I continue developing my skills in:
 
-`Python` · `SQL` · `Data Engineering` · `Cloud` · `DevOps`
+`Python` · `Backend Development` · `SQL` · `Databases` · `Software Engineering` · `Data Engineering`
 
 ---
 
 ## 📚 Currently Learning
 
 ```text
-Data Engineering
+Software Engineering
 │
-├── SQL & Databases
-├── ETL / ELT
-├── Data Quality
-├── Data Modeling
-├── Data Pipelines
-├── Cloud Platforms
-├── Infrastructure as Code
-└── DevOps
+├── Python
+├── Object-Oriented Programming
+├── Data Structures & Algorithms
+├── Software Design
+├── Testing
+├── Git & GitHub
+│
+├── Backend Development
+│   ├── APIs
+│   └── Web Services
+│
+└── Data & Systems
+    ├── SQL & Databases
+    ├── PostgreSQL
+    ├── ETL Fundamentals
+    ├── Linux
+    └── Cloud Fundamentals
