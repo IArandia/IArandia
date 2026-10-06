@@ -31,7 +31,7 @@ I'm a **Computer Science and Artificial Intelligence student at Universidad Serg
 
 I enjoy solving problems through programming and understanding how software is designed, built, and connected to the systems that support it.
 
-My current development is centered around **Python, SQL, databases, software engineering fundamentals, and backend development**, supported by personal projects and continuous learning.
+My current development is centered around **Java, Python, SQL, databases, software engineering fundamentals, and backend development**, supported by personal projects and continuous learning.
 
 I'm also interested in **Data Engineering, Cloud, and systems**, with the goal of developing a strong and versatile engineering foundation before specializing further.
 
@@ -45,7 +45,7 @@ I'm also interested in **Data Engineering, Cloud, and systems**, with the goal o
 
 ### Software Engineering
 
-- Python development
+- java development
 - Backend fundamentals
 - Object-oriented programming
 - Data structures & algorithms
